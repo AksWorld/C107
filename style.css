@@ -1,0 +1,14 @@
+#header_div{
+    background-color: rgb(243, 116, 32);
+    border-radius: 20px;
+    width:500px;
+
+}
+body{
+    background-color: bisque;
+}
+#Activation{
+    border-radius: 20px;
+    text-decoration: white;
+    background-color: rgb(85, 213, 255);
+}
